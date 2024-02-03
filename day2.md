@@ -69,7 +69,7 @@ Syntax:
 
 window.method_name;
 
-The methods of Window objects that are commonly used are listed in the below table:
+The methods of Window objects :
 
 alert(): It is used to display an alert box. It displays a specified message along with an OK button and is generally used to make sure that the information comes through the user.
 atob(): It is used for decoding a base-64 encoded string. It is used to decode a string of data that has been encoded using the btoa() method.
