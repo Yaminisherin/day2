@@ -5,4 +5,4 @@ const isPalindrome = str => {
      const findPalindromes = arr => arr.filter(word => isPalindrome(word)); 
       const words = ["level", "hello", "radar", "noon", "world"]; 
       const palindromes = findPalindromes(words);
-       console.log(palindromes); 
+       console.log(palindromes); 1
