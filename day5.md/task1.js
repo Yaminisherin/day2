@@ -40,3 +40,40 @@
     }
     console.log("\n");
  });
+
+/-------------------------------------------
+//output
+NAME:
+"Yamini Sherin R"
+
+
+TITLE:
+"Bsc Computer Science Student"
+
+
+CONTACT:
+{
+  "email": "sheinyamini789@gmail.com",
+  "phone": "+917812822127",
+  "address": "1-292,claret street 2,agasteeswaram,kovlam,kanniyakumari,kanyakumari district,tamil nadu,India"
+}
+
+
+SUMMARY:
+"Highly  motivated and recent Bsc Computer Science student with a strong foundation in computer science principles,programming languages,and problem-solving abilities.Intrested in launching a career in software developer and contributing to new projects.Capable of swiftly learning new technologies,collabrating in a team contexts and producing outcomes."
+
+
+EDUCATION:
+- {"degree":"Bachelor of Science in Computer Science at manonmanium sundranar university in johns college of arts and science","dates":"2021","HSC":"Carmel matha higher secondary school in commerce computer"}
+
+
+SKILLS:
+- "JavaScript"
+- "Node.js"
+- "Rect js"
+- "HTML/CSS"
+- "MySQL"
+- "Mongo DB"
+- "Git"
+
+
