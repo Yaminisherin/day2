@@ -7,7 +7,7 @@ Document Object:
    The document object represents a web page that is loaded in the browser. By accessing the document object, we can access the element in the HTML page. With the help of document objects, we can add dynamic content to our web page. The document object can be accessed with a window.document or just document.
    
  Syntax:
-  document.property_name;  
+  document.property_name;   
    
    
 Properties of document:
