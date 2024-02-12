@@ -31,3 +31,6 @@ class Circle {
           myCircle.radius = 1.0; 
           myCircle.color = "red"; 
           console.log(myCircle.toString()); 
+//---------------------------------------------------------------------------------
+output:
+Circle[radius=1,color=red]
