@@ -19,3 +19,11 @@ class movie {
                 console.log(casinoroyale.rating); 
                   console.log(casinoroyale.getPG());
                     console.log(defaultmovie.getPG()); 
+//-----------------------------------------------------------------------------------------------------
+output:
+PG
+Casino Royale
+Eon Productions
+PG13
+false
+true
