@@ -18,3 +18,6 @@ class UberPriceCalculator {
              const costPerKilometer = 0.5; 
              const price = calculator.calculatePrice(baseFare, costPerMinute, costPerKilometer);
               console.log("Estimated Uber price: $" + price.toFixed(2));
+//-----------------------------------------------------------------------------------------------------------------
+output:
+Estimated Uber price: $21.00
