@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: "Roboto Condensed";
+    font-weight: 400;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  
+  
+  a, a:hover {
+    color: #0077db;
+  }
+  
+  
+  
+  #container {
+    margin: 20px 0;
+  }
+  
+  
+  
+  .form-control {
+    width: 150px;
+    margin-right: 20px;
+  }
+  
+  .btn {
+    border-radius: 3px;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 500;
+  }
+  .btn.btn-primary {
+    border-color: #0077db;
+    background-color: #0077db;
+  }
+  .btn.btn-primary:hover {
+    background-color: #007fea;
+  }
+  
+   .pagination {
+    margin: 0;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  #nav-bar {
+    position: relative;
+    top: 12cm;
+  }
+  #table_div{
+    border-color: black;
+  }
+  #table-head {
+    color: #007fea;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px #007fea;
+  }
+  
+  #t-body {
+    color:slategray;
+    text-align: center;
+  }
